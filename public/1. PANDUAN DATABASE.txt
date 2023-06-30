@@ -1,0 +1,38 @@
+a. Pengguna : (validasi login/loginregister.html)
+- Nama Panjang
+- Email
+- Password
+
+Data yang ditampikan pada web -->
+
+b. Kendaraan : (index.html, car.html, pricing.html, car-single.html)
+- Nama kendaraan
+- Merek
+- Jarak Tempuh (Mileage)
+- Transmisi (Transmission)
+- Kursi (Seats)
+- Bahan Bakar (Fuel)
+- Deskripsi
+
+c. Jangka waktu : (halamanbook.html, index.html)
+- /hour
+- /day
+- /week
+
+d. Harga : ... /hour /day /week (pricing.html, car.html, index.html)
+
+e. Rental : (halamanbook.html, index.html)
+- Lokasi Tujuan
+- Tanggal Pinjam
+- Waktu Pinjam
+
+f. Kembali : (halamanbook.html, index.html)
+- Tanggal Kembali
+- Waktu Kembali
+
+g. Contact Us untuk bantuan (beridiri sendiri) contact.html
+- Nama
+- Email
+- Subject
+- Message
+
