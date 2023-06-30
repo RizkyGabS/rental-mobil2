@@ -297,7 +297,7 @@
               <div class="row justify-content-center">
                   <div class="col-md-12">
                       <div class="car-details">
-                          <div class="img rounded" style="background-image: url(images/mob2.png)"></div>
+                          <div class="img rounded" style="background-image: url(images/mob5.jpg)"></div>
                           <div class="text text-center">
                               <span class="subheading">Toyota</span>
                               <h2>Corolla Cross</h2>
